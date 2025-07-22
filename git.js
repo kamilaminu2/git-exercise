@@ -1,2 +1,5 @@
 console.log(`hello from git.js`);
-console.log(`feature2 branch is working fine`);
+console.log(
+  `This is a simple JavaScript file to demonstrate the feature1 branch.`
+);
+
